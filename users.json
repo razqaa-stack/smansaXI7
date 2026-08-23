@@ -1,12 +1,494 @@
 {
   "kelases": [
-    "UNASSIGNED / CLEARED"
+    "XI.7"
   ],
-  "siswas": [],
+  "siswas": [
+    {
+      "id": 1787477980628,
+      "nama": "ABDUL RASYID",
+      "nohp": "0101293527",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980630,
+      "nama": "AHMAD RAFI ANAQI",
+      "nohp": "0096603510",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980631,
+      "nama": "AISYAH MAYA HAFIZTA",
+      "nohp": "0108048535",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980632,
+      "nama": "ALIF FARIZKI",
+      "nohp": "0101402376",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980633,
+      "nama": "AQEYLA BISMI WIDYANT",
+      "nohp": "0106857576",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980634,
+      "nama": "ARIEFARIZA RAMADHAN",
+      "nohp": "3093360968",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980635,
+      "nama": "ARIEN ALYA PUTRI",
+      "nohp": "0107508536",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980636,
+      "nama": "ASADUL USAD",
+      "nohp": "0097824591",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980637,
+      "nama": "BRAINA ADIVA",
+      "nohp": "0104575834",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980638,
+      "nama": "CLAUDIA EKKLESIA BR HUTABARAT",
+      "nohp": "0107236349",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980639,
+      "nama": "DADANG PRATAMA AGUSTO",
+      "nohp": "0097224034",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980640,
+      "nama": "DHYRA PUTRI RONTI",
+      "nohp": "0103554621",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980641,
+      "nama": "FAIZAH SALASA PUTRI",
+      "nohp": "0095616929",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980643,
+      "nama": "FAKHRY MAULANA",
+      "nohp": "0108953775",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980644,
+      "nama": "FAZEL STIVEN FAZERO",
+      "nohp": "0098339399",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980645,
+      "nama": "GUTTI BORU SIHANIPAR",
+      "nohp": "0096058928",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980646,
+      "nama": "LAMHOT SIREGAR",
+      "nohp": "0092287704",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980647,
+      "nama": "LATHIFATUL AISY AFDAL",
+      "nohp": "0109393558",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980648,
+      "nama": "LIYANA IZZATI",
+      "nohp": "0094335738",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980649,
+      "nama": "M. FATHIN LUTHFI AL-HIBBAN",
+      "nohp": "0087293924",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980650,
+      "nama": "MAKAILA AMIRAH YASMINE",
+      "nohp": "0094441057",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980651,
+      "nama": "MUHAMMAD ARKHAN KIYANU",
+      "nohp": "0093098701",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980652,
+      "nama": "MUHAMMAD FAISAL ROFIQ",
+      "nohp": "0104321625",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980653,
+      "nama": "MUHAMMAD FAJAR SAPUTRA",
+      "nohp": "0094581246",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980655,
+      "nama": "MUHAMMAD HABIBIE ALMUZAKI",
+      "nohp": "0105520406",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980656,
+      "nama": "MUHAMMAD HILTON",
+      "nohp": "0099696622",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980657,
+      "nama": "MUHAMMAD RIZKY FAHREZA",
+      "nohp": "0094639471",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980658,
+      "nama": "NAFIL ALGANI",
+      "nohp": "0095524066",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980659,
+      "nama": "NAYA PUTRI ANGELICA",
+      "nohp": "0092092077",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980660,
+      "nama": "OZI SAPUTRA",
+      "nohp": "0103212956",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980661,
+      "nama": "PUTI LOVELYA",
+      "nohp": "0092275787",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980662,
+      "nama": "RAFI RAMADHAN",
+      "nohp": "0082791805",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980663,
+      "nama": "RATU AULIA BERLIAN",
+      "nohp": "0093176747",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980664,
+      "nama": "REHAN RAMADHAN",
+      "nohp": "0107943230",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980665,
+      "nama": "REZA DIRGA RAMADHAN",
+      "nohp": "0102449899",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980667,
+      "nama": "RIFQI AL LATHIF",
+      "nohp": "0097402152",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980668,
+      "nama": "RISYADA MIFTAH LIVIRA",
+      "nohp": "0103070629",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980669,
+      "nama": "SITI AULIA",
+      "nohp": "0102115006",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980670,
+      "nama": "THOFAIL SADID AZMAN",
+      "nohp": "0105374794",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980671,
+      "nama": "VANIA AUBERTA",
+      "nohp": "0092999218",
+      "kelas": "XI.7"
+    }
+  ],
   "metadata": {
-    "kelas": "UNASSIGNED / CLEARED",
-    "jumlah_siswa": 0,
-    "updated": "2026-08-23T09:39:07.304Z"
+    "kelas": "XI.7",
+    "jumlah_siswa": 40,
+    "updated": "2026-08-23T09:40:22.284Z"
   },
-  "siswa": []
+  "siswa": [
+    {
+      "id": 1787477980628,
+      "nama": "ABDUL RASYID",
+      "nohp": "0101293527",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980630,
+      "nama": "AHMAD RAFI ANAQI",
+      "nohp": "0096603510",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980631,
+      "nama": "AISYAH MAYA HAFIZTA",
+      "nohp": "0108048535",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980632,
+      "nama": "ALIF FARIZKI",
+      "nohp": "0101402376",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980633,
+      "nama": "AQEYLA BISMI WIDYANT",
+      "nohp": "0106857576",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980634,
+      "nama": "ARIEFARIZA RAMADHAN",
+      "nohp": "3093360968",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980635,
+      "nama": "ARIEN ALYA PUTRI",
+      "nohp": "0107508536",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980636,
+      "nama": "ASADUL USAD",
+      "nohp": "0097824591",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980637,
+      "nama": "BRAINA ADIVA",
+      "nohp": "0104575834",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980638,
+      "nama": "CLAUDIA EKKLESIA BR HUTABARAT",
+      "nohp": "0107236349",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980639,
+      "nama": "DADANG PRATAMA AGUSTO",
+      "nohp": "0097224034",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980640,
+      "nama": "DHYRA PUTRI RONTI",
+      "nohp": "0103554621",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980641,
+      "nama": "FAIZAH SALASA PUTRI",
+      "nohp": "0095616929",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980643,
+      "nama": "FAKHRY MAULANA",
+      "nohp": "0108953775",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980644,
+      "nama": "FAZEL STIVEN FAZERO",
+      "nohp": "0098339399",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980645,
+      "nama": "GUTTI BORU SIHANIPAR",
+      "nohp": "0096058928",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980646,
+      "nama": "LAMHOT SIREGAR",
+      "nohp": "0092287704",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980647,
+      "nama": "LATHIFATUL AISY AFDAL",
+      "nohp": "0109393558",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980648,
+      "nama": "LIYANA IZZATI",
+      "nohp": "0094335738",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980649,
+      "nama": "M. FATHIN LUTHFI AL-HIBBAN",
+      "nohp": "0087293924",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980650,
+      "nama": "MAKAILA AMIRAH YASMINE",
+      "nohp": "0094441057",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980651,
+      "nama": "MUHAMMAD ARKHAN KIYANU",
+      "nohp": "0093098701",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980652,
+      "nama": "MUHAMMAD FAISAL ROFIQ",
+      "nohp": "0104321625",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980653,
+      "nama": "MUHAMMAD FAJAR SAPUTRA",
+      "nohp": "0094581246",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980655,
+      "nama": "MUHAMMAD HABIBIE ALMUZAKI",
+      "nohp": "0105520406",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980656,
+      "nama": "MUHAMMAD HILTON",
+      "nohp": "0099696622",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980657,
+      "nama": "MUHAMMAD RIZKY FAHREZA",
+      "nohp": "0094639471",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980658,
+      "nama": "NAFIL ALGANI",
+      "nohp": "0095524066",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980659,
+      "nama": "NAYA PUTRI ANGELICA",
+      "nohp": "0092092077",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980660,
+      "nama": "OZI SAPUTRA",
+      "nohp": "0103212956",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980661,
+      "nama": "PUTI LOVELYA",
+      "nohp": "0092275787",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980662,
+      "nama": "RAFI RAMADHAN",
+      "nohp": "0082791805",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980663,
+      "nama": "RATU AULIA BERLIAN",
+      "nohp": "0093176747",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980664,
+      "nama": "REHAN RAMADHAN",
+      "nohp": "0107943230",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980665,
+      "nama": "REZA DIRGA RAMADHAN",
+      "nohp": "0102449899",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980667,
+      "nama": "RIFQI AL LATHIF",
+      "nohp": "0097402152",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980668,
+      "nama": "RISYADA MIFTAH LIVIRA",
+      "nohp": "0103070629",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980669,
+      "nama": "SITI AULIA",
+      "nohp": "0102115006",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980670,
+      "nama": "THOFAIL SADID AZMAN",
+      "nohp": "0105374794",
+      "kelas": "XI.7"
+    },
+    {
+      "id": 1787477980671,
+      "nama": "VANIA AUBERTA",
+      "nohp": "0092999218",
+      "kelas": "XI.7"
+    }
+  ]
 }
